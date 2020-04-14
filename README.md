@@ -7,8 +7,8 @@ I'm currently work on algoryth which calculates distance between your system and
 All data after dowloading and preparing requires around 340mb.
 
 To use it, u need some external libraries:
-pip install tqdm
-pip install wget
-pip install pandas
+-tqdm
+-wget
+-pandas
 
 It is project for learning purposes.
